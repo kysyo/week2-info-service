@@ -1,4 +1,4 @@
-# week2-info-service
+# Info-Server
 2주차 과제 info서버
 
 4-19일
